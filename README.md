@@ -1,2 +1,2 @@
-# rust_stm32f1407
-Working directory for my experiments with rust on stm32f4 discovery
+# rust_stm32f407VGTx
+Working directory for my tryst with rust on stm32f407 discovery board
