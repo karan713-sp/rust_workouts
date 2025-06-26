@@ -1,2 +1,3 @@
-# rust_stm32f407VGTx
-Working directory for my tryst with rust on stm32f407 discovery board
+# Rust practice Repository
+This repository is for Rust practice with embedded systems.
+I will try to use Rust for different platforms down the line, starting with commonly available ones.
